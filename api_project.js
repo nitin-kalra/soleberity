@@ -1,0 +1,1 @@
+define({  "name": "SWF - Api Doc",  "version": "1.0.0",  "description": "Services for SWF Application",  "url": "http://54.88.42.151:3000",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-07-12T11:57:06.463Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
