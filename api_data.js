@@ -279,8 +279,7 @@ define({ "api": [
             "type": "JsonObject",
             "optional": false,
             "field": "users",
-            "description": "<p>{'mms':[{'emailid':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', '
-            ': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:''}]}</p>"
+            "description": "<p>{'mms':[{'emailid':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', '': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:''}]}</p>"
           }
         ]
       }
