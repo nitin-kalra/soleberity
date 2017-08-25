@@ -222,7 +222,7 @@ define({ "api": [
             "type": "JsonObject",
             "optional": false,
             "field": "friendsDetails",
-            "description": "<p>{users:{'mms':[{'number':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', 'number': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:'', payload:{'title':'SWF', body:'message + imageUrl'}}]}}</p>"
+            "description": "<p>{users:{'mms':[{'number':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', 'emailId': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:'', payload:{'title':'SWF', body:'message + imageUrl'}}]}}</p>"
           }
         ]
       }
@@ -279,7 +279,7 @@ define({ "api": [
             "type": "JsonObject",
             "optional": false,
             "field": "users",
-            "description": "<p>{'mms':[{'emailid':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', '': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:''}]}</p>"
+            "description": "<p>{'mms':[{'number':'', 'message': '', imageUrl:''}], 'email':[{'message': '', imageUrl:'', 'number': ''}], 'pushNotification':[{&quot;deviceType&quot;:&quot;android/ios&quot;, deviceId':'', message:'', imageUrl:''}]}</p>"
           }
         ]
       }
@@ -358,8 +358,8 @@ define({ "api": [
     "url": "",
     "version": "0.0.0",
     "filename": "./doc/main.js",
-    "group": "_Users_kiwitech_Desktop_node_SWF_apidoc_doc_main_js",
-    "groupTitle": "_Users_kiwitech_Desktop_node_SWF_apidoc_doc_main_js",
+    "group": "_Applications_MAMP_htdocs_swf_16Aug_apidoc_doc_main_js",
+    "groupTitle": "_Applications_MAMP_htdocs_swf_16Aug_apidoc_doc_main_js",
     "name": ""
   }
 ] });
